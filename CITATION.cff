@@ -5,8 +5,8 @@ type: software
 version: "1.0.0"
 date-released: "2026-10-07"
 authors:
-  - family-names: "[Family name]"
-    given-names: "[Given name]"
+  - family-names: "[El Mokdad]"
+    given-names: "[Ghadir]"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 license: MIT
 repository-code: "https://github.com/[ORGANISATION]/[REPOSITORY]"
