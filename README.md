@@ -1,6 +1,7 @@
 # Desmin (DES) in lung adenocarcinoma: tissue-composition analyses
 
-Scripts and result tables behind the article *Desmin (DES) in Lung Adenocarcinoma: Multi-Database Characterization Points to a Tissue-Composition Origin Rather Than a Tumor-Intrinsic Mechanism*. Archive DOI: **10.5281/zenodo.XXXXXXX** (to be completed after the first release).
+Scripts and result tables behind the article *Desmin (DES) in Lung Adenocarcinoma: Multi-Database Characterization Points to a Tissue-Composition Origin Rather Than a Tumor-Intrinsic Mechanism*. Archive DOI: **10.5281/zenodo.23398863
+**.
 
 ## Reproduce
 ```
