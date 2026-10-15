@@ -10,5 +10,5 @@ authors:
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 license: MIT
 repository-code: "https://github.com/[ORGANISATION]/[REPOSITORY]"
-# doi: "10.5281/zenodo.XXXXXXX"   # filled in by Zenodo after the first release
+# doi: "10.5281/zenodo.23398863"
 keywords: [lung adenocarcinoma, desmin, tissue composition, bulk transcriptomics, single-cell, Visium]
