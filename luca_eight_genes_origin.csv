@@ -1,0 +1,17 @@
+group,gene,top1,top1_share,top1_pct_pos,top2,top2_share,max_pct_celltype,max_pct
+normal,DES,smooth muscle cell,87.931595,69.27609427609428,capillary endothelial cell,4.5854974,smooth muscle cell,69.27609427609428
+normal,AGER,pulmonary alveolar type 1 cell,82.86134,95.28002817893625,pulmonary alveolar type 2 cell,10.610953,pulmonary alveolar type 1 cell,95.28002817893625
+normal,SFTPC,pulmonary alveolar type 2 cell,97.25206,99.57716008915695,epithelial cell of lung,1.9805176,pulmonary alveolar type 2 cell,99.57716008915695
+normal,CA4,capillary endothelial cell,99.240715,68.23361823361823,vein endothelial cell,0.47261086,capillary endothelial cell,68.23361823361823
+normal,ADH1B,fibroblast of lung,70.477356,89.30060213061603,smooth muscle cell,11.514028,fibroblast of lung,89.30060213061603
+normal,BTNL9,capillary endothelial cell,95.36763,68.46509971509973,vein endothelial cell,1.8939253,capillary endothelial cell,68.46509971509973
+normal,SPP1,multiciliated epithelial cell,56.20815,4.912054912054912,macrophage,21.012661,macrophage,18.33488002121172
+normal,FAM83A,epithelial cell of lung,45.233944,3.630705394190872,club cell,39.566986,club cell,10.858324715615305
+tumour,DES,smooth muscle cell,91.53416,49.77203647416413,bronchus fibroblast of lung,5.103719,smooth muscle cell,49.77203647416413
+tumour,AGER,pulmonary alveolar type 1 cell,78.241356,96.55390452102435,malignant cell,14.392048,pulmonary alveolar type 1 cell,96.55390452102435
+tumour,SFTPC,pulmonary alveolar type 2 cell,96.85942,90.10561006666168,malignant cell,2.6187913,pulmonary alveolar type 2 cell,90.10561006666168
+tumour,CA4,capillary endothelial cell,79.20821,59.37559489815344,vein endothelial cell,15.531701,capillary endothelial cell,59.37559489815344
+tumour,ADH1B,fibroblast of lung,87.83186,81.09464627151051,bronchus fibroblast of lung,5.839795,fibroblast of lung,81.09464627151051
+tumour,BTNL9,capillary endothelial cell,65.40262,42.394822006472495,vein endothelial cell,20.295774,capillary endothelial cell,42.394822006472495
+tumour,SPP1,macrophage,63.60226,42.140340854993816,myeloid cell,17.276829,myeloid cell,45.374038685621066
+tumour,FAM83A,malignant cell,87.390114,31.391962725684337,epithelial cell of lung,3.8715239,malignant cell,31.391962725684337

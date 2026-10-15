@@ -1,0 +1,10 @@
+# Tested with Python 3.11.15
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+h5py==3.16.0
+anndata==0.12.19
+pyarrow==25.0.1
+tiledbsoma==2.3.0

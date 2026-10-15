@@ -1,0 +1,40 @@
+ct,n,pct_DES,cpm_DES
+bronchial smooth muscle cell,693,76.47907647907648,1216.1315
+vascular associated smooth muscle cell,469,29.21108742004264,580.10785
+myofibroblast cell,248,9.274193548387096,49.228264
+fibroblast,1951,4.920553562275757,81.14584
+macrophage,226,1.3274336283185841,0.34690937
+alveolar macrophage,14734,1.0180534817429077,0.96291614
+lymphocyte,105,0.9523809523809524,0.8448336
+mature NK T cell,335,0.8955223880597015,5.808519
+lung goblet cell,159,0.628930817610063,0.31977364
+intermediate monocyte,188,0.5319148936170213,0.78802204
+endothelial cell of artery,1484,0.4716981132075472,2.1081042
+epithelial cell,669,0.4484304932735426,1.5739774
+classical monocyte,2077,0.4333172845450169,1.7919375
+vein endothelial cell,1155,0.4329004329004329,1.765011
+endothelial cell of lymphatic vessel,467,0.4282655246252677,0.61257
+pericyte,1608,0.3731343283582089,1.8960866
+dendritic cell,581,0.34423407917383825,0.55525535
+endothelial cell,6134,0.3260515161395501,1.5010308
+lung multiciliated epithelial cell,1321,0.3028009084027252,0.2405302
+pulmonary alveolar type 2 cell,3814,0.2884111169375983,0.34234098
+capillary endothelial cell,7391,0.2570694087403599,1.0994023
+natural killer cell,4769,0.25162507863283706,1.1609975
+pulmonary alveolar type 1 cell,972,0.205761316872428,0.85883623
+mucus secreting cell,491,0.20366598778004072,0.059163954
+respiratory basal cell,593,0.16863406408094433,0.13886204
+"effector memory CD4-positive, alpha-beta T cell",3013,0.1327580484566877,0.615755
+non-classical monocyte,804,0.12437810945273632,0.121784106
+"naive thymus-derived CD8-positive, alpha-beta T cell",2042,0.04897159647404505,0.19107139
+club cell,931,0.0,0.0
+B cell,725,0.0,0.0
+monocyte,207,0.0,0.0
+"naive thymus-derived CD4-positive, alpha-beta T cell",932,0.0,0.0
+plasma cell,187,0.0,0.0
+myeloid leukocyte,1902,0.0,0.0
+basal cell,312,0.0,0.0
+"myeloid dendritic cell, human",131,0.0,0.0
+"effector memory CD8-positive, alpha-beta T cell",1190,0.0,0.0
+"plasmacytoid dendritic cell, human",137,0.0,0.0
+CD1c-positive myeloid dendritic cell,266,0.0,0.0

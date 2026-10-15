@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it together with the article."
+title: "Analysis scripts for: Desmin (DES) in lung adenocarcinoma reflects tissue composition (TCGA, CPTAC, CCLE, LuCA single-cell atlas, Visium)"
+type: software
+version: "1.0.0"
+date-released: "2026-10-07"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
+repository-code: "https://github.com/[ORGANISATION]/[REPOSITORY]"
+# doi: "10.5281/zenodo.XXXXXXX"   # filled in by Zenodo after the first release
+keywords: [lung adenocarcinoma, desmin, tissue composition, bulk transcriptomics, single-cell, Visium]

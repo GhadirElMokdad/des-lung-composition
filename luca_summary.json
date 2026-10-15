@@ -1,0 +1,70 @@
+{
+ "cpm": {
+  "n_tumour": 110,
+  "n_normal": 63,
+  "med_tumour": 0.20932596993235122,
+  "med_normal": 0.5087785005905101,
+  "p": 0.015589076635981788
+ },
+ "stromal_frac_all": {
+  "n_tumour": 110,
+  "n_normal": 63,
+  "med_tumour": 0.6704883362161935,
+  "med_normal": 0.8935219657483247,
+  "p": 0.14236235846433118
+ },
+ "stromal_frac_nonimmune": {
+  "n_tumour": 103,
+  "n_normal": 63,
+  "med_tumour": 5.909090909090909,
+  "med_normal": 5.343511450381679,
+  "p": 0.8092716881558608
+ },
+ "pct_smooth muscle": {
+  "n_tumour": 13,
+  "n_normal": 9,
+  "med_tumour": 59.45945945945946,
+  "med_normal": 59.183673469387756,
+  "p": 0.3165025922557979
+ },
+ "pct_fibroblast": {
+  "n_tumour": 40,
+  "n_normal": 20,
+  "med_tumour": 0.7195734327276493,
+  "med_normal": 0.6641157584553812,
+  "p": 0.9678097445642739
+ },
+ "pct_pericyte": {
+  "n_tumour": 8,
+  "n_normal": 5,
+  "med_tumour": 0.5494505494505495,
+  "med_normal": 1.694915254237288,
+  "p": 0.32769275907330675
+ },
+ "pct_endothelial": {
+  "n_tumour": 61,
+  "n_normal": 51,
+  "med_tumour": 0.0,
+  "med_normal": 0.0,
+  "p": 0.9680317308599132
+ },
+ "pct_epithelium": {
+  "n_tumour": 89,
+  "n_normal": 58,
+  "med_tumour": 0.0,
+  "med_normal": 0.0,
+  "p": 0.006004769573033348
+ },
+ "pct_malignant": {
+  "n_tumour": 82,
+  "n_normal": 14,
+  "med_tumour": 0.0,
+  "med_normal": 0.0,
+  "p": 0.18575183158138875
+ },
+ "decomposition_cpm": {
+  "normal_observed": 22.088459742628356,
+  "tumour_observed": 11.476075680031188,
+  "tumour_expected_from_normal_rates_and_tumour_composition": 9.97280167210902
+ }
+}

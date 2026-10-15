@@ -1,0 +1,43 @@
+{
+ "adjacent": {
+  "n_sections": 10,
+  "median_des_cpm": 52.63416382123541,
+  "median_rho_sm": 0.2030078506471956,
+  "median_rho_ep": -0.04310688408294997,
+  "median_pct_des_in_smhi": 33.15195008893913,
+  "median_share_counts_epi": 4.477488527210838,
+  "median_pct_spots_des_smhi": 24.691805656272663,
+  "median_pct_spots_des_epi": 4.298561151079136
+ },
+ "healthy": {
+  "n_sections": 4,
+  "median_des_cpm": 74.6644567500525,
+  "median_rho_sm": 0.2902838942988945,
+  "median_rho_ep": -0.03787268006998301,
+  "median_pct_des_in_smhi": 36.211240310077514,
+  "median_share_counts_epi": 2.232660956065211,
+  "median_pct_spots_des_smhi": 47.119093539054965,
+  "median_pct_spots_des_epi": 5.795148247978436
+ },
+ "tumour": {
+  "n_sections": 12,
+  "median_des_cpm": 4.380295299278671,
+  "median_rho_sm": 0.12089120116595574,
+  "median_rho_ep": -0.03886147082235545,
+  "median_pct_des_in_smhi": 42.617886178861795,
+  "median_share_counts_epi": 3.763375731879669,
+  "median_pct_spots_des_smhi": 9.522613065326635,
+  "median_pct_spots_des_epi": 0.8763482280431434
+ },
+ "LUSC_tumour_median_des_cpm": 1.5179227489915053,
+ "LUSC_adjacent_median_des_cpm": 174.59096546494249,
+ "tumour_vs_adjacent_des_cpm_MWU_p": 8.733926588357827e-05,
+ "paired_patients": 5,
+ "paired_wilcoxon_p": 0.0625,
+ "paired_n_tumour_lower": 5,
+ "tumour_pct_spots_des_epi_vs_smhi_wilcoxon_p": 0.00048828125,
+ "tumour_n_sections_epi_vs_smhi": 12,
+ "tumour_n_epi_lower": 12,
+ "median_enrichment_des_pos_spots_in_top10pct_sm_tumour": 4.261788617886179,
+ "median_enrichment_adjacent": 3.315195008893913
+}

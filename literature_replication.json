@@ -1,0 +1,49 @@
+{
+ "date": "2026-10-07",
+ "queries": {
+  "FAM83A": {
+   "q": "TITLE_ABS:\"FAM83A\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 88
+  },
+  "SPP1": {
+   "q": "TITLE_ABS:\"SPP1\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 115
+  },
+  "BTNL9": {
+   "q": "TITLE_ABS:\"BTNL9\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 7
+  },
+  "CA4": {
+   "q": "TITLE_ABS:\"CA4\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 7
+  },
+  "AGER": {
+   "q": "TITLE_ABS:\"AGER\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 24
+  },
+  "ADH1B": {
+   "q": "TITLE_ABS:\"ADH1B\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 9
+  },
+  "SFTPC": {
+   "q": "TITLE_ABS:\"SFTPC\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 27
+  },
+  "DES (symbol, title/abstract)": {
+   "q": "TITLE_ABS:\"DES\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 17
+  },
+  "desmin": {
+   "q": "TITLE_ABS:\"desmin\" AND TITLE_ABS:(\"lung adenocarcinoma\" OR LUAD)",
+   "n": 13
+  },
+  "desmin, title only + LUAD/NSCLC": {
+   "q": "TITLE:\"desmin\" AND (TITLE_ABS:\"lung adenocarcinoma\" OR TITLE_ABS:\"non-small cell lung\")",
+   "n": 0
+  },
+  "desmin gene expression + lung cancer": {
+   "q": "TITLE_ABS:\"desmin\" AND TITLE_ABS:\"lung cancer\" AND (TITLE_ABS:expression OR TITLE_ABS:prognos* OR TITLE_ABS:biomarker)",
+   "n": 12
+  }
+ }
+}

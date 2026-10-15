@@ -1,0 +1,122 @@
+{
+ "n": 110,
+ "DES_vs_TUMOR_PURITY_BYESTIMATE_RNASEQ": {
+  "rho": 0.1902048002965434,
+  "p": 0.04758829863110161,
+  "n": 109
+ },
+ "DES_vs_TSNET PURITY": {
+  "rho": 0.07952122264048869,
+  "p": 0.40891358442449877,
+  "n": 110
+ },
+ "DES_vs_ESTIMATE STROMALSCORE": {
+  "rho": -0.20800667222685573,
+  "p": 0.029214447302652494,
+  "n": 110
+ },
+ "DES_vs_MYH11_protein": {
+  "rho": 0.430967247481009,
+  "p": 2.602069861458919e-06,
+  "n": 110
+ },
+ "DES_vs_CNN1_protein": {
+  "rho": 0.5718143497960011,
+  "p": 6.807459799269758e-11,
+  "n": 110
+ },
+ "DES_vs_ACTA2_protein": {
+  "rho": 0.3071884227847531,
+  "p": 0.0010972767021814188,
+  "n": 110
+ },
+ "DES_vs_TAGLN_protein": {
+  "rho": 0.24440637468160403,
+  "p": 0.010075640744955925,
+  "n": 110
+ },
+ "DES_vs_AGER_protein": {
+  "rho": 0.3994004012352636,
+  "p": 1.5434239535139287e-05,
+  "n": 110
+ },
+ "DES_vs_SFTPC_protein": {
+  "rho": 0.4140702837950544,
+  "p": 6.900467424339027e-06,
+  "n": 110
+ },
+ "DES_vs_NAPSA_protein": {
+  "rho": 0.07461623424926177,
+  "p": 0.4385035385977742,
+  "n": 110
+ },
+ "DES_vs_PECAM1_protein": {
+  "rho": 0.4138818697615947,
+  "p": 6.973868792722143e-06,
+  "n": 110
+ },
+ "DES_vs_CDH5_protein": {
+  "rho": 0.5185594269098378,
+  "p": 6.514717644487703e-09,
+  "n": 110
+ },
+ "DES_vs_EPCAM_protein": {
+  "rho": 0.1627166783130086,
+  "p": 0.0894265185671234,
+  "n": 110
+ },
+ "DES_vs_VIM_protein": {
+  "rho": 0.0781597277010121,
+  "p": 0.41700718178923596,
+  "n": 110
+ },
+ "SFTPC_vs_purity": {
+  "rho": 0.2742655916967844,
+  "p": 0.0039022082351462925
+ },
+ "AGER_vs_purity": {
+  "rho": 0.28294875359095545,
+  "p": 0.0028713355574628845
+ },
+ "MYH11_vs_purity": {
+  "rho": -0.11179686776017052,
+  "p": 0.24712142943806023
+ },
+ "EPCAM_vs_purity": {
+  "rho": 0.44480585673246226,
+  "p": 1.2611841349028297e-06
+ },
+ "partial_DES_MYH11_given_purity": 0.4551813388941483,
+ "partial_DES_SFTPC_given_purity": 0.3725026416846421,
+ "partial_DES_purity_given_MYH11": 0.26370112167140636,
+ "ccle_n_lines": 1156,
+ "ccle_lung_n": 198,
+ "ccle_DES_lung_rpkm": {
+  "median": 0.02494,
+  "max": 8.23797,
+  "n_gt1": 14,
+  "n_gt0p1": 55,
+  "q75": 0.110175
+ },
+ "ccle_DES_all_median": 0.03918,
+ "ccle_top_DES_lines": {
+  "RD_SOFT_TISSUE": 454.36661,
+  "RH36_SOFT_TISSUE": 429.01413,
+  "RH30_SOFT_TISSUE": 374.21103,
+  "RC2_SOFT_TISSUE": 278.19107,
+  "RH18_SOFT_TISSUE": 264.60095,
+  "SMSCTR_SOFT_TISSUE": 175.23524,
+  "RH41_SOFT_TISSUE": 160.50702,
+  "RHJT_SOFT_TISSUE": 153.89255
+ },
+ "ccle_lung_SFTPC_median": 0.003225,
+ "ccle_lung_EPCAM_median": 97.64883499999999,
+ "ccle_lung_VIM_median": 21.72625,
+ "ccle_lung_top_DES": {
+  "HCC2450_LUNG": 8.23797,
+  "MERO95_LUNG": 7.93256,
+  "MERO84_LUNG": 5.78437,
+  "MERO82_LUNG": 4.83694,
+  "MERO14_LUNG": 4.11157
+ }
+}
