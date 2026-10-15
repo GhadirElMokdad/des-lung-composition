@@ -2,7 +2,7 @@
   "title": "Analysis scripts for: Desmin (DES) in lung adenocarcinoma reflects tissue composition",
   "upload_type": "software",
   "description": "Python scripts and result tables reproducing the TCGA-LUAD, CPTAC, CCLE, Lung Cancer Atlas (CELLxGENE Census) and Visium (BioStudies E-MTAB-13530) analyses of the article. Input data are public and downloaded by 00_download_data.py.",
-  "creators": [{"name": "[Family name, Given name]", "affiliation": "[Affiliation]"}],
+  "creators": [{"name": "[El Mokdad, Ghadir]", "affiliation": "[Lebanese University–Faculty of Sciences]"}],
   "license": "MIT",
   "keywords": ["lung adenocarcinoma", "desmin", "tissue composition", "bulk transcriptomics", "single-cell", "Visium"],
   "access_right": "open"
